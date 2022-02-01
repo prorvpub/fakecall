@@ -22,13 +22,7 @@
 
   "Item":
   [
-    {
-      "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
-    }
+    
   ]
 
 }
